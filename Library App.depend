@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1742841799 source:e:\college\zag eng oop\test\library app\library.cpp
+	"Library.h"
+	"Book.h"
+	<iostream>
+
+1742842674 e:\college\zag eng oop\test\library app\library.h
+	<iostream>
+	"Book.h"
+
+1742839119 e:\college\zag eng oop\test\library app\book.h
+	<iostream>
+
+1742839579 e:\college\zag eng oop\test\library app\book.cpp
+	"Book.h"
+	<iostream>
+	<iomanip>
+
+1742845231 source:e:\college\zag eng oop\test\library app\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"Library.h"
+	"Book.h"
+
+1742844569 source:e:\college\zag eng oop\test\library app\book.cpp
+	"Book.h"
+	<iostream>
+	<iomanip>
+
+1742838304 e:\college\zag eng oop\test\library app\library.cpp
+	"Library.h"
+	"Book.cpp"
+	<iostream>
+
+1743047559 source:e:\college\zag eng oop\tasks\week 2-ali emad-01140251185\book projectv2\book.cpp
+	"Book.h"
+	<iostream>
+	<iomanip>
+
+1742839119 e:\college\zag eng oop\tasks\week 2-ali emad-01140251185\book projectv2\book.h
+	<iostream>
+
+1743047564 source:e:\college\zag eng oop\tasks\week 2-ali emad-01140251185\book projectv2\library.cpp
+	"Library.h"
+	"Book.h"
+	<iostream>
+
+1743047567 e:\college\zag eng oop\tasks\week 2-ali emad-01140251185\book projectv2\library.h
+	<iostream>
+	"Book.h"
+
+1743047578 source:e:\college\zag eng oop\tasks\week 2-ali emad-01140251185\book projectv2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"Library.h"
+	"Book.h"
+

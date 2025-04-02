@@ -1,0 +1,9 @@
+Because it took me a lot of time to make the save & load functions in my code (i took snippets from old codes and asked for sone assistance from chatgpt).
+
+I would recommend to use my ready data in the Books.txt i made for u to test every feature in my code.
+I made a backup data file so that u can test the save function.
+
+if there are any errors or downsides in my code please report it for me so i can improve my code
+to the maximum potential. :)
+
+Thank You!

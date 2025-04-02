@@ -1,0 +1,23 @@
+1- What are the different types of constructors in object-oriented programming? Explain each type briefly.
+
+1)Default Constructor: It is a constructor that takes no arguments and it sets default values for the variables.
+2)Parameterized Constructor: It is a constructor that takes arguments that initialize the variables with specific values.
+3)Copy Constructor: It is a constructor used to create a new object as an exact copy of another object's values.
+===========================================================================================================================
+2- What is a destructor? When is it invoked in a program?
+
+A destructor is a special member function that is invoked automatically when an object
+goes out of scope or is explicitly destroyed using delete or delete[].
+
+Its primary purpose is to free resources, such as memory allocated on the heap.
+
+If you don't define a destructor, the compiler provides a default one, and for some classes this is sufficient.
+===========================================================================================================================
+3- What is a static class or static member? How is it different from an instance member?
+
+A static class or static member belongs to the class itself not the object so most of the times
+the static member is shared among the class objects.
+
+While instance members are tied to a specific object of a class so that every object
+has its own values and these values won't be shared with other objects.
+

@@ -1,0 +1,299 @@
+ID: 1
+Author: J.K. Rowling
+Title: Harry Potter and the Chamber of Secrets
+Genre: Fantasy
+Year: 1998
+Available: Yes
+VIP: No
+Price: 21.50
+Rating: 4.9
+
+ID: 2
+Author: Edgar Allan Poe
+Title: Tales of Mystery and Imagination
+Genre: Horror
+Year: 1845
+Available: No
+VIP: Yes
+Price: 18.99
+Rating: 4.2
+
+ID: 3
+Author: Arthur Conan Doyle
+Title: The Hound of the Baskervilles
+Genre: Mystery
+Year: 1902
+Available: Yes
+VIP: No
+Price: 15.75
+Rating: 4.4
+
+ID: 4
+Author: Jules Verne
+Title: Journey to the Center of the Earth
+Genre: Adventure
+Year: 1864
+Available: Yes
+VIP: No
+Price: 17.00
+Rating: 4.5
+
+ID: 5
+Author: Mary Shelley
+Title: Frankenstein
+Genre: Horror
+Year: 1818
+Available: No
+VIP: Yes
+Price: 14.99
+Rating: 4.0
+
+ID: 6
+Author: J.R.R. Tolkien
+Title: The Lord of the Rings
+Genre: Fantasy
+Year: 1954
+Available: Yes
+VIP: No
+Price: 23.75
+Rating: 4.8
+
+ID: 7
+Author: Charlotte Bronte
+Title: Jane Eyre
+Genre: Classic
+Year: 1847
+Available: No
+VIP: No
+Price: 12.50
+Rating: 4.7
+
+ID: 8
+Author: Gillian Flynn
+Title: Sharp Objects
+Genre: Mystery
+Year: 2006
+Available: Yes
+VIP: Yes
+Price: 16.99
+Rating: 3.8
+
+ID: 9
+Author: Bram Stoker
+Title: Dracula
+Genre: Horror
+Year: 1897
+Available: Yes
+VIP: No
+Price: 20.00
+Rating: 4.6
+
+ID: 10
+Author: Robert Louis Stevenson
+Title: Treasure Island
+Genre: Adventure
+Year: 1883
+Available: No
+VIP: No
+Price: 19.99
+Rating: 4.5
+
+ID: 11
+Author: Emily Bronte
+Title: Wuthering Heights
+Genre: Classic
+Year: 1847
+Available: Yes
+VIP: Yes
+Price: 17.25
+Rating: 3.9
+
+ID: 12
+Author: Stephen King
+Title: The Shining
+Genre: Horror
+Year: 1977
+Available: No
+VIP: No
+Price: 22.50
+Rating: 4.4
+
+ID: 13
+Author: Agatha Christie
+Title: And Then There Were None
+Genre: Mystery
+Year: 1939
+Available: Yes
+VIP: No
+Price: 15.00
+Rating: 4.9
+
+ID: 14
+Author: George Orwell
+Title: Animal Farm
+Genre: Classic
+Year: 1945
+Available: Yes
+VIP: No
+Price: 12.00
+Rating: 3.5
+
+ID: 15
+Author: H.P. Lovecraft
+Title: The Shadow Over Innsmouth
+Genre: Horror
+Year: 1936
+Available: No
+VIP: Yes
+Price: 10.50
+Rating: 4.1
+
+ID: 16
+Author: Mark Twain
+Title: The Adventures of Huckleberry Finn
+Genre: Adventure
+Year: 1884
+Available: Yes
+VIP: No
+Price: 15.75
+Rating: 4.3
+
+ID: 17
+Author: C.S. Lewis
+Title: The Chronicles of Narnia
+Genre: Fantasy
+Year: 1956
+Available: Yes
+VIP: No
+Price: 21.99
+Rating: 4.7
+
+ID: 18
+Author: Daphne du Maurier
+Title: Rebecca
+Genre: Mystery
+Year: 1938
+Available: No
+VIP: No
+Price: 18.50
+Rating: 3.9
+
+ID: 19
+Author: Oscar Wilde
+Title: The Picture of Dorian Gray
+Genre: Classic
+Year: 1890
+Available: Yes
+VIP: No
+Price: 14.25
+Rating: 4.2
+
+ID: 20
+Author: Herman Melville
+Title: Moby-Dick
+Genre: Adventure
+Year: 1851
+Available: No
+VIP: Yes
+Price: 19.50
+Rating: 4.0
+
+ID: 21
+Author: J.K. Rowling
+Title: Harry Potter and the Goblet of Fire
+Genre: Fantasy
+Year: 2000
+Available: Yes
+VIP: Yes
+Price: 22.75
+Rating: 4.6
+
+ID: 22
+Author: Edgar Rice Burroughs
+Title: Tarzan of the Apes
+Genre: Adventure
+Year: 1912
+Available: Yes
+VIP: No
+Price: 13.00
+Rating: 4.3
+
+ID: 23
+Author: Gaston Leroux
+Title: The Phantom of the Opera
+Genre: Mystery
+Year: 1910
+Available: No
+VIP: No
+Price: 17.50
+Rating: 4.1
+
+ID: 24
+Author: Henry James
+Title: The Turn of the Screw
+Genre: Horror
+Year: 1898
+Available: No
+VIP: Yes
+Price: 11.75
+Rating: 3.6
+
+ID: 25
+Author: Louisa May Alcott
+Title: Little Women
+Genre: Classic
+Year: 1868
+Available: Yes
+VIP: No
+Price: 15.00
+Rating: 3.7
+
+ID: 26
+Author: L. Frank Baum
+Title: The Wonderful Wizard of Oz
+Genre: Fantasy
+Year: 1900
+Available: Yes
+VIP: Yes
+Price: 12.99
+Rating: 4.0
+
+ID: 27
+Author: Sir Walter Scott
+Title: Ivanhoe
+Genre: Adventure
+Year: 1820
+Available: No
+VIP: No
+Price: 19.25
+Rating: 3.8
+
+ID: 28
+Author: Agatha Christie
+Title: The Murder of Roger Ackroyd
+Genre: Mystery
+Year: 1926
+Available: Yes
+VIP: Yes
+Price: 16.50
+Rating: 4.5
+
+ID: 29
+Author: Edgar Allan Poe
+Title: The Fall of the House of Usher
+Genre: Horror
+Year: 1839
+Available: No
+VIP: Yes
+Price: 10.25
+Rating: 4.4
+
+ID: 30
+Author: Jules Verne
+Title: Around the World in Eighty Days
+Genre: Adventure
+Year: 1873
+Available: Yes
+VIP: No
+Price: 18.00
+Rating: 4.2
